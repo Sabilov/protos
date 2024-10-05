@@ -1,4 +1,4 @@
 # protos
 Proto Contract
 
-Description: Proto description
+Description: Proto description text
